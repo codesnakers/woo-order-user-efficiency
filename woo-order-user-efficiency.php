@@ -2,7 +2,7 @@
 
 /**
 * Plugin Name: woo-order-user-efficiency
-* Plugin URI: http://www.codesnakers.com
+* Plugin URI: https://github.com/codesnakers/woo-order-user-efficiency
 * Description: Wordpress plugin that records average time taken by a user to complete orders
 * Version: 1.0
 * Author: codesnakers
