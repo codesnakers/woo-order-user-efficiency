@@ -1,0 +1,24 @@
+#custom-metabox {
+	padding-bottom: 10px;
+}
+
+#stopwatch, #stopwatch-break  {
+	width: 100%;
+	font-weight: bolder;
+	font-size: 20px;
+	padding: 10px 0px;
+}
+
+#dropdown {
+	padding-bottom: 10px;
+}
+#break {
+	width: 100%;
+}
+
+#resume {
+	display: none;
+}
+.tb-close-icon{
+	display:none;
+}

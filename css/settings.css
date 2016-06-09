@@ -1,0 +1,42 @@
+
+#settings {
+	margin: 20px 10px;
+}
+
+.label {
+	font-weight: bolder;
+	font-size: 15px;
+}
+
+.form-group {
+	margin-bottom: 30px;
+}
+
+.form-control {
+	width: 150px;
+	margin: 0px 10px;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 0;
+}
+
+.table th{
+	font-weight: bold;
+}
+
+.delete-button {
+    color: #a00;
+    text-decoration: none;
+    border: none;
+    background-color: #fff;
+}
+
+.delete-button:hover {
+    color: red;
+}
